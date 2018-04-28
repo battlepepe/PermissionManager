@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="ec2fd0b5-2d82-4b60-ae51-212b16c3b54d" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="PermissionsManagerPrototye2.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Layouts\PermissionsManagerPrototye2\prototype2.aspx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="PermissionsManagerPrototye2_CustomRibbonButton\Feature.xml" />
+  </FeatureManifests>
+</Solution>

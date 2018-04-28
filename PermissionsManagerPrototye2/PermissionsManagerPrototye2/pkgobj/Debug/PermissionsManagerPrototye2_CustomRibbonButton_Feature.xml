@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Permission manager made by Alex F and Justin m.&#xD;&#xA;Adds a custom button to site actions that navigates to the custom pages made by us" Id="1e792c02-34e1-427f-8eea-a6354edf3de3" Scope="Site" Title="Permission Manager AJ">
+  <ElementManifests>
+    <ElementManifest Location="CustomRibbonButton\Elements.xml" />
+  </ElementManifests>
+</Feature>

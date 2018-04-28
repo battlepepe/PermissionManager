@@ -1,0 +1,82 @@
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.pdb
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.xml
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.xml
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.dll
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.pdb
+C:\MyProjects\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.pdb
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Desktop\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.pdb
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.pdb
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Source\Repos\ReplaceCompare\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.pdb
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.csprojResolveAssemblyReference.cache
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.pdb
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.pdb
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.xml
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.xml
+C:\My Project\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.pdb
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Desktop\New copy of permissions manager 2\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.pdb
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\PermissionsManagerPrototye2.pdb
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.Web.CommandUI.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.xml
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Search.xml
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.BusinessData.xml
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\bin\Debug\Microsoft.SharePoint.Security.xml
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.dll
+C:\Users\Administrator\Desktop\Final ASSS\PermissionsManagerPrototye2\PermissionsManagerPrototye2\obj\Debug\PermissionsManagerPrototye2.pdb

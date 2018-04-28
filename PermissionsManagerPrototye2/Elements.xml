@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <CustomAction
+    Id="Ribbon.Library.Actions.AddAButton"
+    Location="CommandUI.Ribbon"
+    RegistrationId="101"
+    RegistrationType="List"
+    Title="Add a Ribbon Button">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        <CommandUIDefinition
+          Location="Ribbon.Library.Share.Controls._children">
+          <Button Id="Ribbon.Library.Share.NewRibbonButton"
+            Command="NewRibbonButtonCommand"
+            Image16by16="Insert an image URL here."
+            Image32by32="Insert an image URL here."
+            LabelText="Hello World"
+            TemplateAlias="o2" />
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+      <CommandUIHandlers>
+        <CommandUIHandler
+          Command="NewRibbonButtonCommand"
+          CommandAction="javascript:alert('Hello, world');" />
+      </CommandUIHandlers>
+    </CommandUIExtension>
+  </CustomAction>
+</Elements>

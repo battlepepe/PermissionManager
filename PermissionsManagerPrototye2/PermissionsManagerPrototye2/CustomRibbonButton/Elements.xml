@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- adding button to the page tab, manage section in ribbon-->
+  <CustomAction
+    Id="Ribbon.WikiPageTab.Manage.AsssManager"
+    Location="CommandUI.Ribbon"
+    RegistrationId="101"
+    RegistrationType="List"
+    Title="ASSS manager">
+    <CommandUIExtension>
+      <CommandUIDefinitions>
+        <CommandUIDefinition
+          Location="Ribbon.WikiPageTab.Manage.Controls._children">
+          <Button Id="Ribbon.WikiPageTab.Manage.AsssManager"
+            Command="NewRibbonButtonCommand"
+            Image16by16="Insert URL here."
+            Image32by32="Insert URL here"
+            LabelText="ASSS manager"
+            TemplateAlias="o2" />
+        </CommandUIDefinition>
+      </CommandUIDefinitions>
+      <CommandUIHandlers>
+        <CommandUIHandler         
+          Command="NewRibbonButtonCommand"
+          CommandAction="javascript:alert('Hello, world');" />
+      </CommandUIHandlers>
+    </CommandUIExtension>
+  </CustomAction>
+  <!-- adding button to the site actions menu -->
+  <CustomAction
+    Id="Asssmanager"
+    Description="Permission manager for bulk editing"
+    Title="Permissions manager"
+    GroupId="SiteActions"
+    Location="Microsoft.SharePoint.StandardMenu"
+    ImageUrl="_layouts/images/ACIMS.Sites.MegaMenu/left-dnd-eng.gif"
+    RequireSiteAdministrator="TRUE"
+    Sequence="10">
+      <UrlAction Url="~site/_layouts/PermissionsManagerPrototye2/prototype2.aspx"/>
+  </CustomAction>
+</Elements>
